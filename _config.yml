@@ -41,8 +41,8 @@ round-avatar: true
 social-network-links:
   email: "karenachi@icloud.com"
   
-  facebook: karenachi
-  github: karenachi
+  facebook: "https://www.facebook.com/me/"
+  github: "https://github.com/karenachi"
 
 #  medium: yourname
 #  reddit: yourname
@@ -50,7 +50,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: karenachii
+  instagram: "https://www.instagram.com/karenachii/"
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
