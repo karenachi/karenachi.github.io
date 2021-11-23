@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: My Favorite Recipes
+title: My Suse Mentorship
 
 # Your name to show in the footer
 author: Karen
@@ -16,7 +16,7 @@ author: Karen
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Marmiton: "https://www.marmiton.org/"
+    - Suse: "https://www.cio.com/article/3481619/at-suse-mentoring-helps-shape-the-future-for-women-in-tech.html"
     
   Author's home: "https://deanattali.com"
 
