@@ -2,9 +2,9 @@
 layout: post
 title: My First Two Weeks 
 
-cover-img: /assets/img/mentoring.jpg
+cover-img: /assets/img/m.jpg
 thumbnail-img: /assets/img/online.png
-share-img: /assets/img/mentoring.jpg
+share-img: /assets/img/m.jpg
 tags: [books, test]
 ---
 
