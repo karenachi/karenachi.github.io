@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Other Weeks 
-gh-repo: daattali/beautiful-jekyll
+gh-repo: karenachi/karenachi.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
@@ -12,10 +12,10 @@ comments: true
 My mentor informed me about many programs I can participate in, in order to increase my skills and experiences for my future.
 
 The Google Summer Of Code (GSOC) : open source participants will spend the summer writing code for an open source organization while being mentored by members of their new                                      open source community. In addition, it is an activity where a participant performs as an independent developer for which he/she is paid a                                      stipend.
-( read more about it on : https://google.github.io/gsocguides/student/ )
+[read more about it on] ( https://google.github.io/gsocguides/student/ )
 
 Outreachy : provides open source internships to those affected by systemic bias and underrepresentation in the technical industry where they reside. Interns at Outreachy work             with seasoned mentors from the open source community. Programming, user experience, documentation, graphical design, data science, marketing, user advocacy, and               community event planning are examples of outreachy internship tasks.
-( read more about it on : https://www.outreachy.org/ )
+[read more about it on]  (https://www.outreachy.org/ )
 
 **SUSE Meetings**
 
