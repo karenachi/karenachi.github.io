@@ -23,7 +23,7 @@ During this mentorship, I joined a SUSE meeting online ( Release Engineering Mee
 
 **My Personality**
 
-One other think I've learned the most in this mentorship is how my personality can affect my decisions in the real world. I have passed a 16-personalities and it turned out I have an Advocate personality. ( You can find more about it in the "about me" page ).
+One other think I've learned the most in this mentorship is how my personality can affect my decisions in the real world. I have passed a 16-personalities and it turned out I have an Advocate personality. ( You can find more about it in the [about me](https://karenachi.github.io/aboutme/) ).
 
 **Goals Of My Career**
 
