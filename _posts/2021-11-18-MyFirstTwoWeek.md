@@ -5,7 +5,7 @@ title: My First Two Weeks
 cover-img: /assets/img/m.jpg
 thumbnail-img: /assets/img/online.png
 share-img: /assets/img/m.jpg
-tags: [books, test]
+tags: [Mentorship]
 ---
 
 The mentorship program was lunched on Saturday, October 2nd at 9:30 AM PT/5:30 PM BST. It was a "speed networking" kickoff meeting where we met the mentors and spent a few minutes talking with them to see if there was a spark of a connection. The strategy used was the breakout rooms in Zoom of 10 minutes each. From my point of view, it was fun meeting with many people from different countries and each one of them had a specific type of conversations, so it was a mixed up of many subjects in only one hour. 
