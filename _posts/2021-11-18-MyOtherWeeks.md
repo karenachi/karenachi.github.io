@@ -3,7 +3,7 @@ layout: post
 title: My Other Weeks 
 gh-repo: karenachi/karenachi.github.io
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [Mentorship]
 comments: true
 ---
 
