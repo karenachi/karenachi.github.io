@@ -47,10 +47,25 @@ Finally, I have to think long-term : Talk to (and about) others in a courteous m
 
 **Tell Me About Yourself (TMAY)**
 
-Most of the interviewers nowadays ask this question. 
-
-
+Most of the interviewers nowadays ask this question. In this mentorship I've learned how to respond to that kind of questions:
+1- I have to agree and be acknowledged that it is a conversation and to show that I am happy to talk with the interviewer and provide the information he/she is looking for.
+2- I have to start by somewhere that makes sense in order to respond indirectly to the essentiels of the job desciption and the organization.
+3- I have to talk about the pieces that I care about by filling the blanks of my resume and giving the interviewer an idea of how I got from one experience to the other, to get to the place that I am today.
+4- No need to include unnecessary details (even if they “make me look good” ).
+5- Finally, I have to wrap everything up and keep my answers short, maybe to 2 main points. 
 
 **Risks**
+
+What I've learned about risks is that the way I lead my life, whether in fear of failure or in willingness to risk, it is a big deal.
+
+The 5 truths about taking risks are : 
+1- Taking risks provides clarity.
+2- Taking risks will cost me more than I anticipated up front.
+3- Taking risks (or not taking risks) because of a people-pleasing motivation will backfire quicker than I could ever expect.
+4- Taking risks is not at all equivalent to gambling.
+5- Not taking risks will likely produce regret. 
+
+
+
 
 
